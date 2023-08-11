@@ -1,5 +1,6 @@
-# **E-commerce Website** *(ecommerce.jwsquare.com)*
+# **E-commerce Website** 
 
+<h4>Site Sample : (https://ecommerce.jwsquare.com)</h4>
 This e-commerce platform built on Laravel, facilitating easy and reliable shopping experiences with integrated Mpesa and Paypal payment methods.
 
 ---
